@@ -16,3 +16,9 @@ Result:
 This API is made by me and I can decide to take it down or not, for now it's free but it's up to me if I want to make it paid. No one else has this kind of API currently.
 This API is purely a demonstration of the use/flaws of the TikTok Website/API. Use this solely for educational purposes, credential stuffing of any form is strictly forbidden. The author of this API can't be held responsible for any misuse of this API. 
 
+Discord: https://discord.gg/ztTQfbZXAz
+Contact: admin@cloutflare.tech
+
+
+
+
