@@ -7,6 +7,7 @@ works with a normal GET request, just add a query param, returns a json
 
 Example: https://api.cloutflare.tech/stats?name=1lust 
 
+
 Result:
 
 ![image](https://cdn.upload.systems/uploads/8iF2uX8a.png)
