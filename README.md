@@ -7,7 +7,7 @@ works with a normal GET request, just add a query param, returns a json
 
 Example: https://api.cloutflare.tech/stats?name=1lust
 Result: 
-[image](https://cdn.upload.systems/uploads/8iF2uX8a.png)
+![image](https://cdn.upload.systems/uploads/8iF2uX8a.png)
 
 
 This API is made by me and I can decide to take it down or not, for now it's free but it's up to me if I want to make it paid. No one else has this kind of API currently.
